@@ -1,0 +1,25 @@
+ /* Привет Мир */
+*{
+    color: red;
+    background-color: rgb(173, 253, 190);
+    
+}
+div{
+    color: green;
+}
+
+.block{
+    font-size: 18px;
+
+}
+#block1 {
+    font-weight: 700;
+    font-size: 27px;
+    color: red;
+}
+
+#block2 {
+    font-style: italic;
+    font-size: 55px;
+    color: saddlebrown;
+}
